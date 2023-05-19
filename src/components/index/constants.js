@@ -1,0 +1,1 @@
+export const allFilters = ["Supermarket", "Health & Beauty", "Home & Offices", "Appliances", "Phone & Tablets"]
