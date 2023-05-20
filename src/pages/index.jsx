@@ -6,9 +6,9 @@ import IndexMainComponent from '../components/index/main'
 export default function Index() {
   return (
     <>
-      <div className=' w-full h-full'>
+      <div className=' w-full h-screen bg-gray-200'>
         <HeaderComponent />
-        {/* <IndexMainComponent /> */}
+        <IndexMainComponent />
         {/* <FooterComponent /> */}
       </div>
     </>
